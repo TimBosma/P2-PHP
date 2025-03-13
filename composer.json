@@ -1,0 +1,15 @@
+{
+    "name": "timth/opdracht4-producten.php",
+    "autoload": {
+        "psr-4": {
+            "Products\\": "src/Products"
+        }
+    },
+    "authors": [
+        {
+            "name": "TimBosma",
+            "email": "9012598@student.zadkine.nl"
+        }
+    ],
+    "require": {}
+}
